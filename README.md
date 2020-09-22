@@ -1,6 +1,6 @@
 ## Track  Your Expenses and Income
 
-
+## You can even obtain pictorial representations of the income and the expense curve month wise.
 #### Download and make the following changes in `dbcontroller.php` and `function.php`
 
 ```ruby
